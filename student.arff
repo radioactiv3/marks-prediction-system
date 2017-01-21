@@ -1,0 +1,46 @@
+@relation student
+
+@attribute 'LANGUAGE (COMMUNICATION IN ENGLISH)' {D}
+@attribute 'ENGINEERING CHEMISTRY I' {C}
+@attribute 'ENGINEERING PHYSICS I' {C}
+@attribute 'ENGINEERING MATHEMATICS  I' {P}
+@attribute 'ENGINEERING MECHANICS I' {C}
+@attribute 'BASIC ELECTRICAL ENGINEERING' {D}
+@attribute 'ENGINEERING CHEMISTRY LAB' {D}
+@attribute 'ENGINEERING PHYSICS LAB' {D}
+@attribute 'ELECTRICAL LAB' {C}
+@attribute 'ENGINEERING GRAPHICS I' {P}
+@attribute 'WORKSHOP PRACTICE I' {D}
+@attribute 'GENERAL PROFICIENCY' {D}
+@attribute 'ENGINEERING MATHEMATICS  II' {P}
+@attribute 'ENGINEERING PHYSICS II' {C}
+@attribute 'ENGINEERING CHEMISTRY II' {B}
+@attribute 'DISASTER MANAGEMENT' {D}
+@attribute 'BASIC ELECTRONICS' {B}
+@attribute 'ENGINEERING MECHANICS II' {A}
+@attribute 'INTRODUCTION TO PROGRAMMING' {A}
+@attribute 'BASIC ELECTRONICS LAB' {B}
+@attribute 'COMPUTER PROGRAMMING LAB' {Ex}
+@attribute 'ENGINEERING GRAPHICS II' {C}
+@attribute 'WORKSHOP PRACTICE II' {D}
+@attribute 'MATHEMATICS - III' {C}
+@attribute 'ENGINEERING ECONOMICS AND COSTING' {D}
+@attribute 'DIGITAL CIRCUITS AND LOGIC DESIGN' {D}
+@attribute 'DISCRETE MATHEMATICAL STRUCTURES' {D}
+@attribute 'DATA STRUCTURES AND PROGRAMMING METHODOLOGY' {B}
+@attribute 'DIGITAL CIRCUITS AND LOGIC DESIGN LAB' {A}
+@attribute 'DATA STRUCTURES LAB' {C}
+@attribute 'Mathematics - IV' {D}
+@attribute 'Design & Analysis of Algorithm' {C}
+@attribute 'Computer Organization' {D}
+@attribute 'Formal Language & Automata Theory' {D}
+@attribute 'Object Oriented Programming' {B}
+@attribute 'Algorithm Laboratory' {B}
+@attribute 'Object Oriented Programming Laboratory' {C}
+@attribute STATE {RAJASTHAN}
+@attribute CATEGORY {OPEN}
+@attribute SSC numeric
+@attribute HSC numeric
+
+@data
+D,C,C,P,C,D,D,D,C,P,D,D,P,C,B,D,B,A,A,B,Ex,C,D,C,D,D,D,B,A,C,D,C,D,D,B,B,C,RAJASTHAN,OPEN,87,76
